@@ -1,0 +1,7 @@
+{
+  "name": "ZenGen AI: Custom Meditations",
+  "description": "A world-class guided meditation app that generates personalized mindfulness sessions with unique AI-generated visuals, soothing voiceovers, and an expert meditation assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
